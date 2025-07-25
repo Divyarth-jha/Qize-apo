@@ -354,6 +354,6 @@ function highlightSelectedOption(selectedElement) {
     showQuestions();}
 
    })
-   ~
+   
   }
 });
